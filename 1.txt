@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 master1
 oneѽ
 
+=======
+dev1
+two2
+>>>>>>> dev
